@@ -1,0 +1,252 @@
+[
+   {
+      "state": "Alabama",
+      "capital": "Montgomery",
+      "address": "Montgomery, Alabama, USA"
+   },
+   {
+      "state": "Alaska",
+      "capital": "Juneau",
+      "address": "Juneau, Alaska, USA"
+   },
+   {
+      "state": "Arizona",
+      "capital": "Phoenix",
+      "address": "Phoenix, Arizona, USA"
+   },
+   {
+      "state": "Arkansas",
+      "capital": "Little Rock",
+      "address": "Little Rock, Arkansas, USA"
+   },
+   {
+      "state": "California",
+      "capital": "Sacramento",
+      "address": "Sacramento, California, USA"
+   },
+   {
+      "state": "Colorado",
+      "capital": "Denver",
+      "address": "Denver, Colorado, USA"
+   },
+   {
+      "state": "Connecticut",
+      "capital": "Hartford",
+      "address": "Hartford, Connecticut, USA"
+   },
+   {
+      "state": "Delaware",
+      "capital": "Dover",
+      "address": "Dover, Delaware, USA"
+   },
+   {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "address": "Tallahassee, Florida, USA"
+   },
+   {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "address": "Atlanta, Georgia, USA"
+   },
+   {
+      "state": "Hawaii",
+      "capital": "Honolulu",
+      "address": "Honolulu, Hawaii, USA"
+   },
+   {
+      "state": "Idaho",
+      "capital": "Boise",
+      "address": "Boise, Idaho, USA"
+   },
+   {
+      "state": "Illinois",
+      "capital": "Springfield",
+      "address": "Springfield, Illinois, USA"
+   },
+   {
+      "state": "Indiana",
+      "capital": "Indianapolis",
+      "address": "Indianapolis, Indiana, USA"
+   },
+   {
+      "state": "Iowa",
+      "capital": "Des Moines",
+      "address": "Des Moines, Iowa, USA"
+   },
+   {
+      "state": "Kansas",
+      "capital": "Topeka",
+      "address": "Topeka, Kansas, USA"
+   },
+   {
+      "state": "Kentucky",
+      "capital": "Frankfort",
+      "address": "Frankfort, Kentucky, USA"
+   },
+   {
+      "state": "Louisiana",
+      "capital": "Baton Rouge",
+      "address": "Baton Rouge, Louisiana, USA"
+   },
+   {
+      "state": "Maine",
+      "capital": "Augusta",
+      "address": "Augusta, Maine, USA"
+   },
+   {
+      "state": "Maryland",
+      "capital": "Annapolis",
+      "address": "Annapolis, Maryland, USA"
+   },
+   {
+      "state": "Massachusetts",
+      "capital": "Boston",
+      "address": "Boston, Massachusetts, USA"
+   },
+   {
+      "state": "Michigan",
+      "capital": "Lansing",
+      "address": "Lansing, Michigan, USA"
+   },
+   {
+      "state": "Minnesota",
+      "capital": "Saint Paul",
+      "address": "Saint Paul, Minnesota, USA"
+   },
+   {
+      "state": "Mississippi",
+      "capital": "Jackson",
+      "address": "Jackson, Mississippi, USA"
+   },
+   {
+      "state": "Missouri",
+      "capital": "Jefferson City",
+      "address": "Jefferson City, Missouri, USA"
+   },
+   {
+      "state": "Montana",
+      "capital": "Helena",
+      "address": "Helena, Montana, USA"
+   },
+   {
+      "state": "Nebraska",
+      "capital": "Lincoln",
+      "address": "Lincoln, Nebraska, USA"
+   },
+   {
+      "state": "Nevada",
+      "capital": "Carson City",
+      "address": "Carson City, Nevada, USA"
+   },
+   {
+      "state": "New Hampshire",
+      "capital": "Concord",
+      "address": "Concord, New Hampshire, USA"
+   },
+   {
+      "state": "New Jersey",
+      "capital": "Trenton",
+      "address": "Trenton, New Jersey, USA"
+   },
+   {
+      "state": "New Mexico",
+      "capital": "Santa Fe",
+      "address": "Santa Fe, New Mexico, USA"
+   },
+   {
+      "state": "New York",
+      "capital": "Albany",
+      "address": "Albany, New York, USA"
+   },
+   {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "address": "Raleigh, North Carolina, USA"
+   },
+   {
+      "state": "North Dakota",
+      "capital": "Bismarck",
+      "address": "Bismarck, North Dakota, USA"
+   },
+   {
+      "state": "Ohio",
+      "capital": "Columbus",
+      "address": "Columbus, Ohio, USA"
+   },
+   {
+      "state": "Oklahoma",
+      "capital": "Oklahoma City",
+      "address": "Oklahoma City, Oklahoma, USA"
+   },
+   {
+      "state": "Oregon",
+      "capital": "Salem",
+      "address": "Salem, Oregon, USA"
+   },
+   {
+      "state": "Pennsylvania",
+      "capital": "Harrisburg",
+      "address": "Harrisburg, Pennsylvania, USA"
+   },
+   {
+      "state": "Rhode Island",
+      "capital": "Providence",
+      "address": "Providence, Rhode Island, USA"
+   },
+   {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "address": "Columbia, South Carolina, USA"
+   },
+   {
+      "state": "South Dakota",
+      "capital": "Pierre",
+      "address": "Pierre, South Dakota, USA"
+   },
+   {
+      "state": "Tennessee",
+      "capital": "Nashville",
+      "address": "Nashville, Tennessee, USA"
+   },
+   {
+      "state": "Texas",
+      "capital": "Austin",
+      "address": "Austin, Texas, USA"
+   },
+   {
+      "state": "Utah",
+      "capital": "Salt Lake City",
+      "address": "Salt Lake City, Utah, USA"
+   },
+   {
+      "state": "Vermont",
+      "capital": "Montpelier",
+      "address": "Montpelier, Vermont, USA"
+   },
+   {
+      "state": "Virginia",
+      "capital": "Richmond",
+      "address": "Richmond, Virginia, USA"
+   },
+   {
+      "state": "Washington",
+      "capital": "Olympia",
+      "address": "Olympia, Washington, USA"
+   },
+   {
+      "state": "West Virginia",
+      "capital": "Charleston",
+      "address": "Charleston, West Virginia, USA"
+   },
+   {
+      "state": "Wisconsin",
+      "capital": "Madison",
+      "address": "Madison, Wisconsin, USA"
+   },
+   {
+      "state": "Wyoming",
+      "capital": "Cheyenne",
+      "address": "Cheyenne, Wyoming, USA"
+   }
+]
